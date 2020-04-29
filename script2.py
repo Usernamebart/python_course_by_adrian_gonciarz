@@ -76,3 +76,4 @@ my_phone_int = int(my_phone)
 #zamiana int na string
 lenght = 666
 lenght_string = str(lenght)
+
