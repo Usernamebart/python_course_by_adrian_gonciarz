@@ -49,4 +49,3 @@ my_second_cat.say_hello()
 # 2. Dodaj metodę feed(), która zmieni wartość is_hungry an False
 # 3. Dodaj metodę purr(), która wydrukuje napis “Purr, purr” ale tylko wtedy gdy kot nie jest głodny
 # 4. Stwórz nowego kota, nakarm go i zamrucz
-
