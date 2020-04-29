@@ -28,3 +28,4 @@ for i in numbers_list:
 
 # alternatywny zapis / lc => list comprehension / transformacja list
 numbers_squared_by_lc = [i ** 2 for i in numbers_list if i % 3 == 0]
+
