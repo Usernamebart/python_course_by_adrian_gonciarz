@@ -119,3 +119,4 @@ print(poland['famous_people'][-1])
 # Następnie wydrukuj:
 # a.Stolicę ostatniego kraju
 # b.Populację pierwszego kraju
+
