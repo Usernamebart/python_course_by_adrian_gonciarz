@@ -1,27 +1,21 @@
 def say_hello():
     print('Hello!')
 
-
 say_hello()
-
 
 def poem():
     print('Na straganie w dzień targowy', 'Takie słyszy się rozmowy:', '"Może pan się o mnie oprze,',
           'Pan tak więdnie, panie koprze."', sep='\n')
 
-
 poem()
 
 unit = 'kilometers'
 
-
 def drive(distance):
     print(f'Drive straight for {distance} {unit}')
 
-
 def run(speed):
     print(f'Run with speed {speed} for 10 {unit}')
-
 
 def drive_with_speed(distance, speed):
     print(f'Drive straight for {distance} {unit} with speed {speed}')
