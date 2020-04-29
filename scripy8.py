@@ -23,4 +23,3 @@ student_adam = Student('Adam') # instancja klasy student
 
 student_kasia.greetings()
 student_adam.greetings()
-
